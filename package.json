@@ -1,0 +1,13 @@
+{
+  "name": "podtron",
+  "productName": "Podtron",
+  "description": "A sweet podcatcher for Windows and Mac.",
+  "version": "0.1.0",
+  "main": "main.js",
+  "keywords": [
+    "podcatcher",
+    "podcasts"
+  ],
+  "author": "Jammerware",
+  "license": "MIT"
+}
